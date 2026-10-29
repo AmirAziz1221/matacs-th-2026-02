@@ -1,0 +1,12 @@
+[
+ { "proposal": "A", "rank": 1, "status": "ranked",
+   "score": 96.5, "reason": "Most qualifying installs, shortest schedule (12 weeks), price within budget, named lead, safety and monitoring plan" },
+ { "proposal": "E", "rank": 2, "status": "ranked",
+   "score": 85.7, "reason": "Best warranty and monitoring and a full team plan, but fewer qualifying installs than A and a slightly longer schedule" },
+ { "proposal": "C", "rank": null, "status": "flagged",
+   "score": 83.3, "reason": "Contains an instruction aimed at automated reviewers; ignored, scored on real content only; would be 3rd if the reviewer clears it" },
+ { "proposal": "D", "rank": null, "status": "flagged",
+   "score": null, "reason": "No completion time stated, so the 16-week limit cannot be checked; ask the bidder to clarify (provisional about 72 with timeline scored 0)" },
+ { "proposal": "B", "rank": null, "status": "ineligible",
+   "score": null, "reason": "Fails mandatory licence criterion: electrical work is left to a subcontractor to be confirmed after award" }
+]
