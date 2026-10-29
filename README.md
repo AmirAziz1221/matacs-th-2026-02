@@ -3,11 +3,11 @@
 - **Name:** Amir Aziz
 - **Reference:** MATACS-TH-2026-02
 - **Role:** Associate Software Developer
-- **Time actually spent:** [FILL IN: your real time, e.g. "about 1 hour 30 minutes"]
+- **Time actually spent:** 2-4 hour's
 
 ## How I used AI tools
 
-I used Claude to help draft the design, the prompts and the write-up, and I reviewed and edited the result myself. [FILL IN: one real place you disagreed with or corrected the AI. Example if it is true for you: "Claude's first draft gave rough scores (96 / 87 / 79) without showing how they were calculated. I asked for explicit formulas, and recalculating changed them to 96.5 / 85.7 / 83.3, so I used the recalculated numbers and put the formulas in prototype/scoring.py." Replace this with your own honest example.]
+I disagreed with Claude's first suggestion to treat C only as "flagged with a score of about 79". I checked the sub-scores myself, saw the number was not backed by a calculation, and had it recomputed (83.3). I also kept C unranked until a human clears the hidden instruction in its text, rather than letting the tool rank it automatically.
 
 ## Files
 
